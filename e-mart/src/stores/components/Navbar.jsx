@@ -14,7 +14,9 @@ const Navbar = () => {
         <h2>E-mart 🛍️</h2>
     </div>
     <div className="search">
-        <input type="text" placeholder='search...' />
+       <h4>✨Happy to see you here , Explore below submenu ✨</h4>
+       
+      
     </div>
     <div className="user">
         <div className="user-detail">

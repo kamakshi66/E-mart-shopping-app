@@ -78,6 +78,10 @@ box-shadow: 0 5px 10px rgba(183, 241, 7, 0.15);
     align-items: center;
     justify-content: center;
     margin-left: 100px;
+    background-color: #f1dff1;
+    border-radius: 8cap;
+    box-shadow:#f1dff1;
+    box-shadow: 0 11px 15px rgba(0, 0, 0, 0.1);
 }
 
 .search input {
@@ -385,14 +389,14 @@ ul li {
 .quote-bar {
   width: 100%;
   overflow: hidden;
-  background-color: #f0f4ff;   /* light background */
-  color: #000000;              /* blue text */
+  background-color: #f0f4ff;  
+  color: #000000;              
   border-top: 2px solid #bdec01;
   border-bottom: 2px solid #bdf145;
   padding: 8px 0;
   position: relative;
  
-  margin-top: 20px;     /* 👈 adds space below navbar */
+  margin-top: 20px;     
 
 
 }
